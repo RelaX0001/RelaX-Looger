@@ -35,10 +35,14 @@ Evet Bitti.
 pip install pyinstaller
 
 Sonra
-
-pyinstaller --onefile RelaX Logger.py [BUNDA CMD AÇILIR]
-
-pyinstaller --onefile --noconsole RelaX Logger.py [BUNDA CMD AÇILMAZ]
+```
+pyinstaller --onefile RelaX Logger.py
+```
+[BUNDA CMD AÇILIR]
+```
+pyinstaller --onefile --noconsole RelaX Logger.py 
+```
+[BUNDA CMD AÇILMAZ]
 
 Creative Commons 2023-2024
 
