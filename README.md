@@ -10,9 +10,9 @@ RelaX Logger Tüm Hakları Saklıdır!
 Sonra Cmd Yi Açıp Cmd Komutları İle RelaX Logger Ana Dizinine Girin.
 
 Sonra Orada Şu Kodu Çalıştırın
-
+```
 pip install -r requirements.txt
-
+```
 Discord'da Bir Sunucu Oluşturup Entegrasyolardan Webhook Oluşturun.
 
 Oluşturulan Webhook Tokeni'ni Kopyalayıp
