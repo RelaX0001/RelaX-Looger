@@ -42,9 +42,7 @@ Evet Bitti.
 
 🟡[[[Eğer Exe'ye Çevirmek İsterseniz!]]]🟡
 
-Öncelikle pip aracılığı ile pyinstaller modülünü indirin ve kurun
-
-pip install pyinstaller
+Yine Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
 
 🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
 ```
