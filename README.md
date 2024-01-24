@@ -54,6 +54,9 @@ pyinstaller --onefile RelaX.py
 ```
 pyinstaller --onefile --noconsole RelaX.py 
 ```
+
+## ⚙️ 〢 Kurulum Videosu
+https://streamable.com/m9fl7z
 ## 🔍 〢 Test Edildi:
 - Windows 10
 
