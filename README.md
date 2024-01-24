@@ -7,7 +7,7 @@ RelaX Logger Tüm Hakları Saklıdır!
 
 Depoyu Klonlayın Veya İndirin!
 ```
-https://github.com/RelaX0001/RelaX-Looger.git
+git clone https://github.com/RelaX0001/RelaX-Looger.git
 ```
 Öncelikle İndirdiğiniz Ya'da Klonladığınız RelaX Logger.rar Dosyasını Klasöre Ayıklayın.
 
