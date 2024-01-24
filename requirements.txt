@@ -1,5 +1,5 @@
 keyboard==0.13.5
-discord-webhook==0.12.1
+discord-webhook>=0.13.0
 os-sys==1.0.2
 datetime==4.3
 pynput==1.7.3
