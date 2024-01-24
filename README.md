@@ -19,6 +19,12 @@ Sonra Orada Şu Kodu Çalıştırın
 ```
 pip install -r requirements.txt
 ```
+🔴🟢Eğer Pip Kurulu Değilse🔴🟢
+
+Cmd Komut Satırına Şunu Yazın
+```
+pip install pip
+```
 Discord'da Bir Sunucu Oluşturup Entegrasyolar'dan Webhook Oluşturun.
 
 Oluşturulan Webhook Tokeni'ni Kopyalayıp
