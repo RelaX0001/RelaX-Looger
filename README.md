@@ -42,7 +42,9 @@ Evet Bitti.
 
 🟡[[[Eğer Exe'ye Çevirmek İsterseniz!]]]🟡
 
-Yine Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
+1- Cmd Yi Açıp "pip install pynput" Koutunu Çalıştırın
+
+2- Yine Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
 
 🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
 ```
