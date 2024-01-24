@@ -2,4 +2,3 @@ keyboard
 discord-webhook
 os-sys
 datetime
-pyinstaller
