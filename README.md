@@ -3,9 +3,18 @@
 
 RelaX Logger Tüm Hakları Saklıdır!
 
+## 🔍 〢 Gereksnimler
+- Python (Bendeki Sürüm: 3.11.2)
+- Bendeki Python Linki: https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+  
+- Git (Depoyu Klonlamak İçin Ama İsterseniz İndirebilirsinizde)
+- (64 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
+- (32 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.exe
+
 Öncelikle Selamlar Ben RelaX 
 
 Depoyu Klonlayın Veya İndirin!
+Klonlamak İçin Cmd Ye Şu Komutu Yazın!
 ```
 git clone https://github.com/RelaX0001/RelaX-Looger.git
 ```
