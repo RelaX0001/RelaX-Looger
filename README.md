@@ -48,11 +48,11 @@ Evet Bitti.
 
 🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
 ```
-pyinstaller --onefile RelaX Logger.py
+pyinstaller --onefile RelaX.py
 ```
 🔻🔻🔻[BUNDA CMD AÇILMAZ]🔻🔻🔻
 ```
-pyinstaller --onefile --noconsole RelaX Logger.py 
+pyinstaller --onefile --noconsole RelaX.py 
 ```
 ## 🔍 〢 Test Edildi:
 - Windows 10
