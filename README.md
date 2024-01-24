@@ -5,7 +5,11 @@ RelaX Logger Tüm Hakları Saklıdır!
 
 Öncelikle Selamlar Ben RelaX 
 
-Öncelikle İndirdiğiniz RelaX Logger.rar Dosyasını Klasöre Ayıklayın.
+Depoyu Klonlayın Veya İndirin!
+```
+https://github.com/RelaX0001/RelaX-Looger.git
+```
+Öncelikle İndirdiğiniz Ya'da Klonladığınız RelaX Logger.rar Dosyasını Klasöre Ayıklayın.
 
 Sonra Cmd Yi Açıp Cmd Komutları İle RelaX Logger Ana Dizinine Girin.
 
