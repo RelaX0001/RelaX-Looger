@@ -34,7 +34,7 @@ WEBHOOK = "" # Tırnak İçine Kopyaladığnız Base 64 Kodunu Yazın.
  ```
 Evet Bitti.
 
-[[[Eğer Exe'ye Çevirmek İsterseniz!]]]
+🟡[[[Eğer Exe'ye Çevirmek İsterseniz!]]]🟡
 
 Öncelikle pip aracılığı ile pyinstaller modülünü indirin ve kurun
 
