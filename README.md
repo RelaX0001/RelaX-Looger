@@ -10,10 +10,12 @@ RelaX Logger Tüm Hakları Saklıdır!
 Sonra Cmd Yi Açıp Cmd Komutları İle RelaX Logger Ana Dizinine Girin.
 
 Sonra Orada Şu Kodu Çalıştırın
+
+## ⚙️ 〢 Kurulum
 ```
 pip install -r requirements.txt
 ```
-Discord'da Bir Sunucu Oluşturup Entegrasyolardan Webhook Oluşturun.
+Discord'da Bir Sunucu Oluşturup Entegrasyolar'dan Webhook Oluşturun.
 
 Oluşturulan Webhook Tokeni'ni Kopyalayıp
 
@@ -35,14 +37,16 @@ Evet Bitti.
 pip install pyinstaller
 
 Sonra
+🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
 ```
 pyinstaller --onefile RelaX Logger.py
 ```
-[BUNDA CMD AÇILIR]
+🔻🔻🔻[BUNDA CMD AÇILMAZ]🔻🔻🔻
 ```
 pyinstaller --onefile --noconsole RelaX Logger.py 
 ```
-[BUNDA CMD AÇILMAZ]
+## 🔍 〢 Test Edildi:
+- Windows 10
 
 Creative Commons 2023-2024
 
