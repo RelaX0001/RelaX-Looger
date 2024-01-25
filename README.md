@@ -71,6 +71,7 @@ pyinstaller --onefile --noconsole RelaX.py
 https://streamable.com/m9fl7z
 ## 🔍 〢 Test Edildi:
 - Windows 10
+- Windows 11
 
 Creative Commons 2023-2024
 
