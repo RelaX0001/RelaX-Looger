@@ -46,6 +46,8 @@ Evet Bitti.
 
 Oradaki ⭕ 3-Exe Oluşturucu.bat ⭕ Dosyasını Çalıştırın!
 
+Kurulum Bitince dist Dosyası Oluşacaktır Exe'niz Onun İçinde Olacaktır!
+
 ## ⚙️ 〢 Kurulum Videosu
 https://streamable.com/m9fl7z
 ## 🔍 〢 Test Edildi:
