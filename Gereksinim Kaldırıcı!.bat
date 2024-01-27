@@ -1,0 +1,16 @@
+@echo off
+
+echo discord-webhook Kaldiriliyor...
+pip uninstall -y discord-webhook
+
+echo datetime Kaldiriliyor...
+pip uninstall -y datetime
+
+echo keyboard Kaldiriliyor...
+pip uninstall -y keyboard
+
+echo PyInstaller Kaldiriliyor...
+pip uninstall -y pyinstaller
+
+echo Islem Tamamlandi. Herhangi Bir Tusa Basin...
+pause
