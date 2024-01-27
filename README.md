@@ -44,16 +44,7 @@ Evet Bitti.
 
 ⛔⛔⛔Eğer Exe'ye Çevirmek İsterseniz!⛔⛔⛔
 
-Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
-
-🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
-```
-pyinstaller --onefile RelaX.py
-```
-🔻🔻🔻[BUNDA CMD AÇILMAZ]🔻🔻🔻
-```
-pyinstaller --onefile --noconsole RelaX.py 
-```
+Oradaki ⭕ 3-Exe Oluşturucu.bat ⭕ Dosyasını Çalıştırın!
 
 ## ⚙️ 〢 Kurulum Videosu
 https://streamable.com/m9fl7z
