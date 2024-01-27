@@ -44,7 +44,7 @@ Evet Bitti.
 
 ⛔⛔⛔Eğer Exe'ye Çevirmek İsterseniz!⛔⛔⛔
 
-2- Yine Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
+Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
 
 🔻🔻🔻[BUNDA CMD AÇILIR]🔻🔻🔻
 ```
