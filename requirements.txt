@@ -1,3 +1,0 @@
-keyboard==0.13.5
-datetime==4.3
-discord-webhook==0.14.0
