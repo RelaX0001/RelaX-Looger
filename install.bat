@@ -1,10 +1,11 @@
 @echo off
 
-echo Python 3.11.2 yükleniyor...
-:: Python 3.11.2'yi indirip yüklemek için uygun komutu ekleyin
-:: Örneğin:
-:: https://www.python.org/downloads/release/python-3112/
-:: python-3.11.2-amd64.exe /quiet InstallAllUsers=1 PrependPath=1
+set PYTHON_VERSION=3.11.2
+set PYTHON_URL=https://www.python.org/ftp/python/%PYTHON_VERSION%/python-%PYTHON_VERSION%-amd64.exe
+
+echo Python %PYTHON_VERSION% Yukleniyor...
+curl -LO %PYTHON_URL%
+python-%PYTHON_VERSION%-amd64.exe /quiet InstallAllUsers=1 PrependPath=1
 
 echo PyInstaller Yukleniyor...
 pip install pyinstaller==6.3.0
