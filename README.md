@@ -49,7 +49,7 @@ Oradaki ⭕ 3-Exe Oluşturucu.bat ⭕ Dosyasını Çalıştırın!
 Kurulum Bitince dist Dosyası Oluşacaktır Exe'niz Onun İçinde Olacaktır!
 
 ## ⚙️ 〢 Kurulum Videosu
-https://streamable.com/m9fl7z
+https://streamable.com/3jgevt
 ## 🔍 〢 Test Edildi:
 - Windows 10
 - Windows 11
