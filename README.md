@@ -1,4 +1,5 @@
 # RelaX-Looger
+# HİÇBİR SORUN YAŞAMAMAK İÇİN KENDİ PYTHONU'NU SİL!
 Çok Basit Bir Discord Keylogger
 
 RelaX Logger Tüm Hakları Saklıdır!
