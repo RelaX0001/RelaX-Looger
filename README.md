@@ -4,7 +4,7 @@
 
 ## 🔍 〢 Gereksinimler
 - Git (Depoyu Klonlamak İçin Ama İsterseniz İndirebilirsinizde)
-- 
+  
 - (Git-64 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe
 - (Git-32 Bit) https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-32-bit.exe
 
@@ -53,6 +53,8 @@ https://streamable.com/3jgevt
 ## 🔍 〢 Test Edildi:
 - Windows 10
 - Windows 11
+
+⛔⛔Eğitim Amaçlıdır, Sonunda Karşılaşacağınız Sorunlardan Tarafım Ve Ben Sorumlu Deilizdir Sorumluluk Tamamen Size Aittir!⛔⛔
 
 Creative Commons 2023-2024
 
