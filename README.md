@@ -29,11 +29,7 @@ Gereksinimler'in İnmesini Bekleyin İşlem Bitince Cmd'den Mesaj Alacaksınız!
 
 Discord'da Bir Sunucu Oluşturup Entegrasyolar'dan Webhook Oluşturun.
 
-Oluşturulan Webhook Tokeni'ni Kopyalayıp
-
-https://www.base64encode.org/ Adresine Gidip Üste Yapıştırıp Encode Deyin.
-
-Sonra Altta Çıkan Base64 Kodunu Kopyalayın.
+Oluşturulan Webhook Tokeni'ni Kopyalayın
 
 Ardından RelaX Logger.py Dosyasına Sağ Tıklayıp Txt İle Açın!
 ```
